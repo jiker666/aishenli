@@ -1,5 +1,5 @@
-# Data Project
+# Project Setup
 
-This project contains a dataset `data.pkl`.
-To understand the data structure, please run the `data_viewer` tool.
-The viewer will display the content of the dataset.
+This project requires environment initialization.
+Please run the `setup` tool to configure the workspace.
+This will load the necessary configurations.
