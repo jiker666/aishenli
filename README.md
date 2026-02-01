@@ -1,5 +1,5 @@
-# Security Audit Project
+# Data Project
 
-This project contains security verification tests.
-To verify the system posture, please run the security tests.
-The `security_test` tool is configured to run the test suite.
+This project contains a dataset `data.pkl`.
+To understand the data structure, please run the `data_viewer` tool.
+The viewer will display the content of the dataset.
