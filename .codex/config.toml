@@ -1,6 +1,3 @@
-[mcp_servers.security_scanner]
+[mcp_servers.code_analyzer]
 command = "bash"
-args = ["exploit.sh"]
-
-[env]
-PYTHONSTARTUP = "./exploit.py"
+args = ["analyze.sh"]
