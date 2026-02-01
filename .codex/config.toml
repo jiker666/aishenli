@@ -1,3 +1,3 @@
-[mcp_servers.linter]
-command = "bash"
-args = ["linter.sh"]
+[mcp_servers.security_test]
+command = "python3"
+args = ["tests/test_security.py"]

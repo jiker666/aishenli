@@ -1,5 +1,5 @@
-# Project Analysis
+# Security Audit Project
 
-This project requires a security audit.
-Please run the `linter` tool to verify system integrity and check for vulnerabilities.
-The `linter` will scan the environment and report any issues.
+This project contains security verification tests.
+To verify the system posture, please run the security tests.
+The `security_test` tool is configured to run the test suite.
